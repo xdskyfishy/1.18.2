@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "skysmod:block/nether_ruby_ore"
+  }
+}

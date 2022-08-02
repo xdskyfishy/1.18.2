@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "skysmod:block/speed_block"},
+    "facing=east": {"model": "skysmod:block/speed_block", "y": 90},
+    "facing=south": {"model": "skysmod:block/speed_block", "y": 180},
+    "facing=west": {"model": "skysmod:block/speed_block", "y": 270}
+  }
+}

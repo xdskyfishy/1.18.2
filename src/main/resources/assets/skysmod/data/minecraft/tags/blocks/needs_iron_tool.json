@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "skysmod:ruby_block",
+    "skysmod:ruby_ore",
+    "skysmod:deepslate_ruby_ore",
+    "skysmod:end_ruby_ore"
+
+  ]
+}

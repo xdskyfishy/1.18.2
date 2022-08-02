@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "skysmod:block/rose_wood_planks"
+  }
+}

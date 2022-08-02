@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "skysmod:ruby_block",
+    "skysmod:ruby_ore",
+    "skysmod:deepslate_ruby_ore",
+    "skysmod:end_ruby_ore",
+    "skysmod:nether_ruby_ore",
+    "skysmod:raw_ruby_block",
+    "skysmod:speed_block",
+    "skysmod:ruby_stairs",
+    "skysmod:ruby_slab",
+    "skysmod:ruby_wall",
+    "skysmod:ruby_button",
+    "skysmod:ruby_pressure_plate"
+
+  ]
+}

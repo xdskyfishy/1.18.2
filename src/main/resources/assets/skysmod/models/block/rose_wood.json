@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "skysmod:block/rose_wood_log",
+    "side": "skysmod:block/rose_wood_log"
+  }
+}

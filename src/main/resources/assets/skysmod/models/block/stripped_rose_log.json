@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "skysmod:block/stripped_rose_log_top",
+    "side": "skysmod:block/stripped_rose_log"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "age=0": { "model": "skysmod:block/hamburger_bun_stage0"},
+    "age=1": { "model": "skysmod:block/hamburger_bun_stage1"},
+    "age=2": { "model": "skysmod:block/hamburger_bun_stage2"},
+    "age=3": { "model": "skysmod:block/hamburger_bun_stage3"},
+    "age=4": { "model": "skysmod:block/hamburger_bun_stage4"},
+    "age=5": { "model": "skysmod:block/hamburger_bun_stage5"},
+    "age=6": { "model": "skysmod:block/hamburger_bun_stage6"}
+  }
+}

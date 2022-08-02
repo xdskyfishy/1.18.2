@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "skysmod:block/infuser"},
+    "facing=east": {"model": "skysmod:block/infuser", "y": 90},
+    "facing=south": {"model": "skysmod:block/infuser", "y": 180},
+    "facing=west": {"model": "skysmod:block/infuser", "y": 270}
+  }
+}

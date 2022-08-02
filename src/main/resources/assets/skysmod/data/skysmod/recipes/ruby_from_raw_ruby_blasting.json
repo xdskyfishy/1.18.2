@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "skysmod:raw_ruby"
+  },
+  "result": "skysmod:ruby"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "skysmod:block/ruby_block",
+    "side": "skysmod:block/ruby_block",
+    "top": "skysmod:block/ruby_block"
+  }
+}

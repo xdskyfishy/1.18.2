@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "skysmod:block/rose_wood_leaves"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecaft:block/cross",
+  "textures": {
+    "cross": "skysmod:block/rose_wood_sapling"
+  }
+}

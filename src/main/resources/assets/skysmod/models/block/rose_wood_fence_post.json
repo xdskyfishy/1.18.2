@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "skysmod:block/rose_wood_planks"
+  }
+}
